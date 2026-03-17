@@ -1,3 +1,9 @@
 {
-    "schedules": []
+  "schedules": [
+    {
+      "id": 1773779102569,
+      "name": "João da Silva",
+      "when": "2026-03-17T22:00:00.000Z"
+    }
+  ]
 }
